@@ -1,4 +1,4 @@
-![Logo](https://github.com/karthi-the-hacker/webintellect/blob/main/images/logo.png)
+![Logo](https://raw.githubusercontent.com/karthi-the-hacker/Password-cracker/refs/heads/main/Images/password-cracker.png)
 
 # Password Cracker
 
